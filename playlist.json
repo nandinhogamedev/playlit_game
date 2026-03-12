@@ -1,1 +1,7 @@
-
+{
+ "musicas":[
+  "https://nandinhogamedev.github.io/playlit_game/musicas/funk1.ogg",
+  "https://nandinhogamedev.github.io/playlit_game/musicas/funk2.ogg",
+  "https://nandinhogamedev.github.io/playlit_game/musicas/funk3.ogg"
+ ]
+}
